@@ -1,0 +1,14 @@
+{
+  "name": "traceway",
+  "owner": {
+    "name": "Traceway"
+  },
+  "description": "Official Traceway plugin marketplace",
+  "plugins": [
+    {
+      "name": "traceway",
+      "source": "./",
+      "description": "Traceway observability skills: debug production issues through the traceway CLI and instrument backend, frontend, and mobile projects to report to a Traceway instance."
+    }
+  ]
+}
